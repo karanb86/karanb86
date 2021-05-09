@@ -1,4 +1,4 @@
-👋 <h3>Hi there</h3>
+👋<h3>Hi there</h3>
 
 :gear: I’m a tech enthusiast, who loves to build software products.
 
